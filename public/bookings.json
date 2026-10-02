@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2026-07-22",
+    "name": "Pre-booked Client A",
+    "type": "bridal",
+    "details": "Private Bridal Makeup Consultation"
+  },
+  {
+    "date": "2026-07-23",
+    "name": "Pre-booked Client B",
+    "type": "engagement",
+    "details": "Engagement Shoot Styling"
+  },
+  {
+    "date": "2026-07-25",
+    "name": "Katherine & Marcus",
+    "type": "bridal",
+    "details": "Pre-booked Lake Como Bridal Makeup Session"
+  },
+  {
+    "date": "2026-07-28",
+    "name": "Pre-booked Client C",
+    "type": "reception",
+    "details": "Reception Evening Look"
+  },
+  {
+    "date": "2026-08-01",
+    "name": "Sophia & Julian",
+    "type": "bridal",
+    "details": "Pre-booked Ritz-Carlton Paris Celebration"
+  },
+  {
+    "date": "2026-08-05",
+    "name": "Pre-booked Client D",
+    "type": "party",
+    "details": "Bridesmaids Makeover Sessions"
+  },
+  {
+    "date": "2026-08-12",
+    "name": "Pre-booked Client E",
+    "type": "hd-airbrush",
+    "details": "HD Portfolio Video Shoot"
+  },
+  {
+    "date": "2026-08-15",
+    "name": "Charlotte B.",
+    "type": "reception",
+    "details": "Pre-booked Editorial Campaign Shoots"
+  },
+  {
+    "date": "2026-08-24",
+    "name": "Pre-booked Client F",
+    "type": "workshops",
+    "details": "Editorial Artistry Masterclass Day 1"
+  },
+  {
+    "name": "Deekshitha S",
+    "email": "deekshitha2624@gmail.com",
+    "phone": "8072270912",
+    "location": "chennai",
+    "date": "2026-07-31",
+    "type": "bridal"
+  },
+  {
+    "name": "Deekshitha S",
+    "email": "deekshitha2624@gmail.com",
+    "phone": "9092139380",
+    "location": "chennai",
+    "date": "2026-07-30",
+    "type": "bridal"
+  },
+  {
+    "name": "Deekshitha S",
+    "email": "deekshitha2624@gmail.com",
+    "phone": "9092139380",
+    "location": "chennai",
+    "date": "2026-07-29",
+    "type": "bridal"
+  }
+]
